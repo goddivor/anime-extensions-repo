@@ -11,12 +11,12 @@ Aniyomi/Anikku repository with my personal extensions (FR + EN).
 </tr>
 <tr>
 <td align="center">
-<a href="aniyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgoddivor%2Fanime-extensions-repo%2Frepo%2Findex.min.json">
+<a href="https://intradeus.github.io/http-protocol-redirector/?r=aniyomi://add-repo?url=https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/index.min.json">
 <img src="https://img.shields.io/badge/Click%20here%20to%20install%20repo-FF5722?style=for-the-badge" alt="Install on Aniyomi"/>
 </a>
 </td>
 <td align="center">
-<a href="anikku://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgoddivor%2Fanime-extensions-repo%2Frepo%2Findex.min.json">
+<a href="https://intradeus.github.io/http-protocol-redirector/?r=anikku://add-repo?url=https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/index.min.json">
 <img src="https://img.shields.io/badge/Click%20here%20to%20install%20repo-FF5722?style=for-the-badge" alt="Install on Anikku"/>
 </a>
 </td>
