@@ -74,6 +74,7 @@ The source code of each extension lives in its own repo:
 - https://github.com/goddivor/voiranime-ext
 - https://github.com/goddivor/wiflix-ext
 - https://github.com/goddivor/frenchstream-ext
+- https://github.com/goddivor/pornhub-ext
 
 ## ⚠️ Disclaimer
 
