@@ -2,9 +2,34 @@
 
 Repo Aniyomi/Anikku contenant mes extensions personnelles (FR + EN).
 
-## 🚀 Ajouter ce repo dans Aniyomi/Anikku
+## 🚀 Installation rapide
 
-1. Ouvrir l'app **Aniyomi** ou **Anikku**
+<table>
+<tr>
+<th align="center">Install on Aniyomi</th>
+<th align="center">Install on Anikku</th>
+</tr>
+<tr>
+<td align="center">
+<a href="aniyomi://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgoddivor%2Fanime-extensions-repo%2Frepo%2Findex.min.json">
+<img src="https://img.shields.io/badge/Click%20here%20to%20install%20repo-FF5722?style=for-the-badge" alt="Install on Aniyomi"/>
+</a>
+</td>
+<td align="center">
+<a href="anikku://add-repo?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgoddivor%2Fanime-extensions-repo%2Frepo%2Findex.min.json">
+<img src="https://img.shields.io/badge/Click%20here%20to%20install%20repo-FF5722?style=for-the-badge" alt="Install on Anikku"/>
+</a>
+</td>
+</tr>
+</table>
+
+> Tape sur le bouton de l'app que tu utilises depuis ton téléphone pour ajouter le repo automatiquement.
+
+## ➕ Installation manuelle
+
+Si les boutons ci-dessus ne fonctionnent pas :
+
+1. Ouvrir **Aniyomi** ou **Anikku**
 2. Aller dans **Plus → Paramètres → Sources → Dépôts d'extensions**
 3. Coller cette URL :
 
@@ -34,12 +59,11 @@ https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/index.min.
 
 ## ⚙️ Structure du repo
 
-- Branche `repo` (publique) : contient le manifeste et les binaires
-  - `index.min.json` — manifeste consommé par Aniyomi
-  - `index.json` — version pretty-printed (debug)
-  - `apk/*.apk` — binaires des extensions
-  - `icon/*.png` — icônes 192px
-- Branche `main` : ce README
+Branche unique `repo` (par défaut) contenant :
+- `index.min.json` — manifeste consommé par Aniyomi/Anikku
+- `index.json` — version pretty-printed (debug)
+- `apk/*.apk` — binaires des extensions
+- `icon/*.png` — icônes 192px
 
 ## 🤝 Sources
 
