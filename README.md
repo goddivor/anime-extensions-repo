@@ -52,6 +52,7 @@ https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/index.min.
 | HDS | 🇫🇷 fr | hds.quest |
 | iAnime | 🇫🇷 fr | ianimes.eu |
 | JetAnime | 🇫🇷 fr | jetanimes.com |
+| Pornhub 🔞 | 🌐 all | pornhub.com |
 | VoirAnime | 🇫🇷 fr | voiranime.tv |
 | VoirDrama | 🇫🇷 fr | voirdrama.to |
 | Vostfree | 🇫🇷 fr | vostfree.ws |
