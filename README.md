@@ -1,8 +1,8 @@
 # Anime Extensions Repository
 
-Repo Aniyomi/Anikku contenant mes extensions personnelles (FR + EN).
+Aniyomi/Anikku repository with my personal extensions (FR + EN).
 
-## 🚀 Installation rapide
+## 🚀 Quick install
 
 <table>
 <tr>
@@ -23,25 +23,25 @@ Repo Aniyomi/Anikku contenant mes extensions personnelles (FR + EN).
 </tr>
 </table>
 
-> Tape sur le bouton de l'app que tu utilises depuis ton téléphone pour ajouter le repo automatiquement.
+> Tap the button matching the app you use from your phone to add the repo automatically.
 
-## ➕ Installation manuelle
+## ➕ Manual install
 
-Si les boutons ci-dessus ne fonctionnent pas :
+If the buttons above do not work:
 
-1. Ouvrir **Aniyomi** ou **Anikku**
-2. Aller dans **Plus → Paramètres → Sources → Dépôts d'extensions**
-3. Coller cette URL :
+1. Open **Aniyomi** or **Anikku**
+2. Go to **More → Settings → Sources → Extension repos**
+3. Paste this URL:
 
 ```
 https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/index.min.json
 ```
 
-4. Aller dans **Parcourir → Extensions** et installer/mettre à jour les sources qui t'intéressent.
+4. Go to **Browse → Extensions** and install/update the sources you want.
 
-## 📦 Extensions incluses
+## 📦 Included extensions
 
-| Extension | Langue | Site |
+| Extension | Language | Site |
 |---|---|---|
 | Adkami | 🇫🇷 fr | hentai.adkami.com |
 | AnimeKai | 🇬🇧 en | animekai.to |
@@ -57,17 +57,17 @@ https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/index.min.
 | Vostfree | 🇫🇷 fr | vostfree.ws |
 | Wiflix | 🇫🇷 fr | flemmix.best |
 
-## ⚙️ Structure du repo
+## ⚙️ Repo structure
 
-Branche unique `repo` (par défaut) contenant :
-- `index.min.json` — manifeste consommé par Aniyomi/Anikku
-- `index.json` — version pretty-printed (debug)
-- `apk/*.apk` — binaires des extensions
-- `icon/*.png` — icônes 192px
+Single branch `repo` (default) containing:
+- `index.min.json` — manifest consumed by Aniyomi/Anikku
+- `index.json` — pretty-printed version (debug)
+- `apk/*.apk` — extension binaries
+- `icon/*.png` — 192px icons
 
 ## 🤝 Sources
 
-Le code source des extensions est dans les repos individuels :
+The source code of each extension lives in its own repo:
 - https://github.com/goddivor/animekai-ext
 - https://github.com/goddivor/voirdrama-ext
 - https://github.com/goddivor/voiranime-ext
@@ -76,4 +76,4 @@ Le code source des extensions est dans les repos individuels :
 
 ## ⚠️ Disclaimer
 
-Ces extensions sont fournies à titre éducatif. Aucune affiliation avec Aniyomi ou les sites scrappés.
+These extensions are provided for educational purposes. No affiliation with Aniyomi or the scraped sites.
