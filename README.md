@@ -47,7 +47,7 @@ https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/index.min.
 | AnimeKai | 🇬🇧 en | animekai.to |
 | FrenchAnime | 🇫🇷 fr | french-anime.com |
 | FrenchManga | 🇫🇷 fr | french-manga.net |
-| FrenchStream | 🇫🇷 fr | fs18.lol |
+| FrenchStream | 🇫🇷 fr | fs03.lol |
 | hanime.tv | 🇬🇧 en | hanime.tv |
 | HDS | 🇫🇷 fr | hds.quest |
 | iAnime | 🇫🇷 fr | ianimes.eu |

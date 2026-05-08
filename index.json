@@ -70,17 +70,17 @@
   {
     "name": "Aniyomi: FrenchStream",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.frenchstream",
-    "apk": "aniyomi-fr.frenchstream-v14.2.apk",
+    "apk": "aniyomi-fr.frenchstream-v14.3.apk",
     "lang": "fr",
-    "code": 2,
-    "version": "14.2",
+    "code": 3,
+    "version": "14.3",
     "nsfw": 0,
     "sources": [
       {
         "name": "FrenchStream",
         "lang": "fr",
         "id": "9140475323915408699",
-        "baseUrl": "https://fs18.lol"
+        "baseUrl": "https://fs03.lol"
       }
     ]
   },
