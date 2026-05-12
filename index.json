@@ -121,10 +121,10 @@
   {
     "name": "Aniyomi: Pornhub",
     "pkg": "eu.kanade.tachiyomi.animeextension.all.pornhub",
-    "apk": "aniyomi-all.pornhub-v13.15.apk",
+    "apk": "aniyomi-all.pornhub-v13.20.apk",
     "lang": "all",
-    "code": 15,
-    "version": "13.15",
+    "code": 20,
+    "version": "13.20",
     "nsfw": 1,
     "sources": [
       {
