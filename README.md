@@ -43,20 +43,20 @@ https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/index.min.
 
 | Extension | Language | Site |
 |---|---|---|
-| Adkami | 🇫🇷 fr | hentai.adkami.com |
-| AnimeKai | 🇬🇧 en | animekai.to |
-| FrenchAnime | 🇫🇷 fr | french-anime.com |
-| FrenchManga | 🇫🇷 fr | french-manga.net |
-| FrenchStream | 🇫🇷 fr | fs03.lol |
-| hanime.tv | 🇬🇧 en | hanime.tv |
-| HDS | 🇫🇷 fr | hds.quest |
-| iAnime | 🇫🇷 fr | ianimes.eu |
-| JetAnime | 🇫🇷 fr | jetanimes.com |
-| Pornhub 🔞 | 🌐 all | pornhub.com |
-| VoirAnime | 🇫🇷 fr | voir-anime.to |
-| VoirDrama | 🇫🇷 fr | voirdrama.to |
-| Vostfree | 🇫🇷 fr | vostfree.ws |
-| Wiflix | 🇫🇷 fr | flemmix.best |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.adkami.png" width="48" align="middle"/> **Adkami** | 🇫🇷 fr | hentai.adkami.com |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.en.animekai.png" width="48" align="middle"/> **AnimeKai** | 🇬🇧 en | animekai.to |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.frenchanime.png" width="48" align="middle"/> **FrenchAnime** | 🇫🇷 fr | french-anime.com |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.frenchmanga.png" width="48" align="middle"/> **FrenchManga** | 🇫🇷 fr | french-manga.net |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.frenchstream.png" width="48" align="middle"/> **FrenchStream** | 🇫🇷 fr | fs03.lol |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.en.hanime.png" width="48" align="middle"/> **hanime.tv** | 🇬🇧 en | hanime.tv |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.hds.png" width="48" align="middle"/> **HDS** | 🇫🇷 fr | hds.quest |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.ianime.png" width="48" align="middle"/> **iAnime** | 🇫🇷 fr | ianimes.eu |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.jetanime.png" width="48" align="middle"/> **JetAnime** | 🇫🇷 fr | jetanimes.com |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.all.pornhub.png" width="48" align="middle"/> **Pornhub** 🔞 | 🌐 all | pornhub.com |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.voiranime.png" width="48" align="middle"/> **VoirAnime** | 🇫🇷 fr | voir-anime.to |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.voirdrama.png" width="48" align="middle"/> **VoirDrama** | 🇫🇷 fr | voirdrama.to |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.vostfree.png" width="48" align="middle"/> **Vostfree** | 🇫🇷 fr | vostfree.ws |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.wiflix.png" width="48" align="middle"/> **Wiflix** | 🇫🇷 fr | flemmix.best |
 
 ## ⚙️ Repo structure
 
