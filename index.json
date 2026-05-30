@@ -155,10 +155,10 @@
   {
     "name": "Aniyomi: VoirAnime",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.voiranime",
-    "apk": "aniyomi-fr.voiranime-v14.10.apk",
+    "apk": "aniyomi-fr.voiranime-v14.11.apk",
     "lang": "fr",
-    "code": 10,
-    "version": "14.10",
+    "code": 11,
+    "version": "14.11",
     "nsfw": 0,
     "sources": [
       {
@@ -172,10 +172,10 @@
   {
     "name": "Aniyomi: VoirDrama",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.voirdrama",
-    "apk": "aniyomi-fr.voirdrama-v14.1.apk",
+    "apk": "aniyomi-fr.voirdrama-v14.2.apk",
     "lang": "fr",
-    "code": 1,
-    "version": "14.1",
+    "code": 2,
+    "version": "14.2",
     "nsfw": 0,
     "sources": [
       {
