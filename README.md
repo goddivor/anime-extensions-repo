@@ -45,6 +45,7 @@ https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/index.min.
 |---|---|---|
 | <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.adkami.png" width="48" align="middle"/> **Adkami** | 🇫🇷 fr | [hentai.adkami.com](https://hentai.adkami.com) |
 | <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.en.animekai.png" width="48" align="middle"/> **AnimeKai** | 🇬🇧 en | [animekai.to](https://animekai.to) |
+| <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.en.eporner.png" width="48" align="middle"/> **Eporner** 🔞 | 🇬🇧 en | [eporner.com](https://www.eporner.com) |
 | <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.frenchanime.png" width="48" align="middle"/> **FrenchAnime** | 🇫🇷 fr | [french-anime.com](https://french-anime.com) |
 | <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.frenchmanga.png" width="48" align="middle"/> **FrenchManga** | 🇫🇷 fr | [french-manga.net](https://french-manga.net) |
 | <img src="https://raw.githubusercontent.com/goddivor/anime-extensions-repo/repo/icon/eu.kanade.tachiyomi.animeextension.fr.frenchstream.png" width="48" align="middle"/> **FrenchStream** | 🇫🇷 fr | [fs03.lol](https://fs03.lol) |
@@ -76,6 +77,7 @@ The source code of each extension lives in its own repo:
 - https://github.com/goddivor/wiflix-ext
 - https://github.com/goddivor/frenchstream-ext
 - https://github.com/goddivor/pornhub-ext
+- https://github.com/goddivor/eporner-ext
 
 ## ⚠️ Disclaimer
 

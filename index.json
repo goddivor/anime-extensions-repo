@@ -34,6 +34,23 @@
     ]
   },
   {
+    "name": "Aniyomi: Eporner",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.eporner",
+    "apk": "aniyomi-en.eporner-v14.1.apk",
+    "lang": "en",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "Eporner",
+        "lang": "en",
+        "id": "6509116870336138134",
+        "baseUrl": "https://www.eporner.com"
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: French Anime",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.frenchanime",
     "apk": "aniyomi-fr.frenchanime-v14.28.apk",
@@ -85,6 +102,23 @@
     ]
   },
   {
+    "name": "Aniyomi: hanime.tv",
+    "pkg": "eu.kanade.tachiyomi.animeextension.en.hanime",
+    "apk": "aniyomi-en.hanime-v14.24.apk",
+    "lang": "en",
+    "code": 24,
+    "version": "14.24",
+    "nsfw": 1,
+    "sources": [
+      {
+        "name": "hanime.tv",
+        "lang": "en",
+        "id": "2649711761599612719",
+        "baseUrl": "https://hanime.tv"
+      }
+    ]
+  },
+  {
     "name": "Aniyomi: HDS",
     "pkg": "eu.kanade.tachiyomi.animeextension.fr.hds",
     "apk": "aniyomi-fr.hds-v14.12.apk",
@@ -115,6 +149,23 @@
         "lang": "all",
         "id": "5463554730282678273",
         "baseUrl": "https://hentaigasm.com"
+      }
+    ]
+  },
+  {
+    "name": "Aniyomi: iAnime",
+    "pkg": "eu.kanade.tachiyomi.animeextension.fr.ianime",
+    "apk": "aniyomi-fr.ianime-v14.1.apk",
+    "lang": "fr",
+    "code": 1,
+    "version": "14.1",
+    "nsfw": 0,
+    "sources": [
+      {
+        "name": "iAnime",
+        "lang": "fr",
+        "id": "5229219818436278957",
+        "baseUrl": "https://www.ianimes.eu"
       }
     ]
   },
@@ -217,40 +268,6 @@
         "lang": "fr",
         "id": "7149332646839704216",
         "baseUrl": "https://flemmix.best"
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: hanime.tv",
-    "pkg": "eu.kanade.tachiyomi.animeextension.en.hanime",
-    "apk": "aniyomi-en.hanime-v14.24.apk",
-    "lang": "en",
-    "code": 24,
-    "version": "14.24",
-    "nsfw": 1,
-    "sources": [
-      {
-        "name": "hanime.tv",
-        "lang": "en",
-        "id": "2649711761599612719",
-        "baseUrl": "https://hanime.tv"
-      }
-    ]
-  },
-  {
-    "name": "Aniyomi: iAnime",
-    "pkg": "eu.kanade.tachiyomi.animeextension.fr.ianime",
-    "apk": "aniyomi-fr.ianime-v14.1.apk",
-    "lang": "fr",
-    "code": 1,
-    "version": "14.1",
-    "nsfw": 0,
-    "sources": [
-      {
-        "name": "iAnime",
-        "lang": "fr",
-        "id": "5229219818436278957",
-        "baseUrl": "https://www.ianimes.eu"
       }
     ]
   }
