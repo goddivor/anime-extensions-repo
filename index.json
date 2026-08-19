@@ -104,10 +104,10 @@
   {
     "name": "Aniyomi: hanime.tv",
     "pkg": "eu.kanade.tachiyomi.animeextension.en.hanime",
-    "apk": "aniyomi-en.hanime-v14.24.apk",
+    "apk": "aniyomi-en.hanime-v14.27.apk",
     "lang": "en",
-    "code": 24,
-    "version": "14.24",
+    "code": 27,
+    "version": "14.27",
     "nsfw": 1,
     "sources": [
       {
